@@ -1,0 +1,145 @@
+{
+  "enriched_companies": [
+    {
+      "company_name": "Admob",
+      "company_url": "https://www.sequoiacap.com/companies/admob/",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Admob Logo.Svg",
+      "company_url": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2021/11/admob-logo.svg",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Alkira",
+      "company_url": "https://www.sequoiacap.com/companies/alkira/",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Alkira Logo.Svg",
+      "company_url": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2021/11/alkira-logo.svg",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Bigpanda",
+      "company_url": "https://www.sequoiacap.com/companies/bigpanda/",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Big Panda Logo.Svg",
+      "company_url": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2021/11/big-panda-logo.svg",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Bird",
+      "company_url": "https://www.sequoiacap.com/companies/bird/",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Bird Logo.Svg",
+      "company_url": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2021/11/bird-logo.svg",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Bridgebio",
+      "company_url": "https://www.sequoiacap.com/companies/bridgebio/",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Bridgebio Logo.Svg",
+      "company_url": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2021/11/bridgebio-logo.svg",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Dolls Kill",
+      "company_url": "https://www.sequoiacap.com/companies/dolls-kill/",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Dollskill Logo.Svg",
+      "company_url": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2021/11/dollskill-logo.svg",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Genedit",
+      "company_url": "https://www.sequoiacap.com/companies/genedit/",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Genedit Logo.Svg",
+      "company_url": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2021/11/genedit-logo.svg",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Graphiant",
+      "company_url": "https://www.sequoiacap.com/companies/graphiant/",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Graphiant Logo.Svg",
+      "company_url": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2021/11/graphiant-logo.svg",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Green Dot",
+      "company_url": "https://www.sequoiacap.com/companies/green-dot/",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Green Dot Logo.Svg",
+      "company_url": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2021/11/green-dot-logo.svg",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Houzz",
+      "company_url": "https://www.sequoiacap.com/companies/houzz/",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    },
+    {
+      "company_name": "Houzz Logo.Svg",
+      "company_url": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2021/11/houzz-logo.svg",
+      "source": "sequoia_portfolio",
+      "explorium_features": {},
+      "enrichment_status": "failed"
+    }
+  ],
+  "total_processed": 20
+}
